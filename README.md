@@ -1,2 +1,2 @@
-# Kelompok-Gokeils
+# Infor-Team-Six
 Apakek dah gede
