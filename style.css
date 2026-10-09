@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: whitesmoke;
     align-items: center;
     text-align: center;
 }
@@ -7,7 +7,7 @@ h1{
     color: blue;
 }
 img{
-    width: 500px;
+    width: 200px;
     height: auto;
 }
 ul{
