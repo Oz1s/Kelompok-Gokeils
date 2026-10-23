@@ -1,21 +1,26 @@
 body{
-    background-color: darkblue;
+    background-color: gray ;
     align-items: center;
     text-align: center;
 }
 h1{
-    color: cyan;
+    color: navy;
+    background-color: khaki;
 }
 img{
     width: 500px;
     height: auto;
+    background-color: cyan;
 }
+
 ul{
     color: yellow;
     list-style-type: none;
+    text-align: right;
 }
 li{
     display: inline-block;
+    color: khaki;
 } 
 button{
     background-color: grey;
@@ -23,4 +28,8 @@ button{
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+}
+p{
+    color: white;
+    background-color: black;
 }
